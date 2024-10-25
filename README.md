@@ -82,5 +82,5 @@ http://localhost:8000/i/sun_painting.jpg
 To install, run `pip install .` in the root directory, or:
 
 ```
-pip install 'git+https://github.com/seanbreckenridge/s3-image-server'
+pip install 'git+https://github.com/purarue/s3-image-server'
 ```

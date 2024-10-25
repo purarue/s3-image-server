@@ -7,8 +7,7 @@ pkg = "s3_image_uploader"
 setup(
     name=pkg,
     version="0.0.1",
-    author="Sean Breckenridge",
-    author_email="seanbrecke@gmail.com",
+    author="purarue",
     description="upload to the s3 bucket",
     packages=find_packages(include=[pkg]),
     package_data={pkg: ["py.typed"]},
