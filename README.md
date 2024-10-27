@@ -64,7 +64,7 @@ An example uploading a base64 encoded image:
 
 To proxy a URL (request/download it, then re-host it):
 
-`curl -sL -X POST localhost:8000/u/test2.png -d '{"url": "https://sean.fish/images/frontend/rubikscube.png", "token": "secret_token"}'`
+`curl -sL -X POST localhost:8000/u/test2.png -d '{"url": "https://purarue.xyz/images/frontend/rubikscube.png", "token": "secret_token"}'`
 
 To retrieve that, use: `localhost:8000/i/test.png`
 
